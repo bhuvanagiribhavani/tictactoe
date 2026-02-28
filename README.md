@@ -1,17 +1,17 @@
-# 🎮 Tic Tac Toe
+#  Tic Tac Toe
 
 A simple and interactive Tic Tac Toe game built using **HTML**, **CSS**, and **JavaScript**.
 
 This project demonstrates basic game logic implementation, DOM manipulation, and responsive UI design.
 
----
+
 
 ## 🚀 Live Demo
 
 🔗 https://tictactoe-nine-ivory.vercel.app/
 
 
----
+
 
 ## 📌 Features
 
@@ -22,7 +22,7 @@ This project demonstrates basic game logic implementation, DOM manipulation, and
 - 🔁 Restart game button
 - 📱 Clean and responsive layout
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -30,7 +30,7 @@ This project demonstrates basic game logic implementation, DOM manipulation, and
 - **CSS** – Styling and layout design
 - **JavaScript** – Game logic and interactivity
 
----
+
 
 ## 📂 Project Structure
 
@@ -54,7 +54,7 @@ This project demonstrates basic game logic implementation, DOM manipulation, and
   - Detects draw conditions
   - Resets the board when restart is clicked
 
----
+
 
 ## 💡 Future Enhancements
 
@@ -64,7 +64,7 @@ This project demonstrates basic game logic implementation, DOM manipulation, and
 - Add dark mode
 - Improve UI design
 
----
+
 
 ## 👩‍💻 Author
 
@@ -72,6 +72,6 @@ Bhavani
 
 Built as a frontend practice project to strengthen JavaScript fundamentals.
 
----
+
 
 ⭐ If you like this project, feel free to star the repository!
